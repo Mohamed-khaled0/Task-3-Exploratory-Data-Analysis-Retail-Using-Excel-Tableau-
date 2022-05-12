@@ -9,4 +9,4 @@
 ## I used Excel to understand, clean, and analyze the data, and then I used Tableau to visualize the data.
 
 # Important Note 
-###- The dataset does not contain costs
+- The dataset does not contain costs
